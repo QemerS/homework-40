@@ -1,1 +1,1 @@
-# homework-40
+# Bootstrap, JS intro
